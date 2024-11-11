@@ -2,6 +2,7 @@
 
 This project demonstrates how to integrate Apache Spark with SlashML's Text-to-SQL model to enable natural language queries on your data. The demo includes a sample retail database with sales, products, and customers data that you can query using plain English.
 
+```
 Enter your question > What are the total sales by category?
 
 Generated SQL Query:
